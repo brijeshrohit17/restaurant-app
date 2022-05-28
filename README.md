@@ -1,3 +1,6 @@
+!!! IMPORTANT !!!
+Learning from thapa technical so trying to make same app without changing anything!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
